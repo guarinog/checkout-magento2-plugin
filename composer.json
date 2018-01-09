@@ -1,8 +1,8 @@
 {
-    "name": "checkoutcom/magento2",
+    "name": "gg/checkoutcom2",
     "description": "Checkout.com Payment Gateway for Magento 2",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1",
         "magento/framework": ">=100.1.0",
         "magento/magento-composer-installer": "*",
         "magento/module-sales": "*",
